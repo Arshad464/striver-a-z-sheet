@@ -1,5 +1,8 @@
 # Input Output
 
+
+# Input Output
+
 # Complete the function printNumber which takes an integer input from the user and prints it on the screen.
 
 # Use:-
@@ -23,10 +26,18 @@
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7d9b740 (Initial Commit)
 class solution:
     def printNumber(self):
         n=int(input())
         print(n)
 
 a=solution()
+<<<<<<< HEAD
 a.printNumber()
+=======
+a.printNumber()
+>>>>>>> 7d9b740 (Initial Commit)
